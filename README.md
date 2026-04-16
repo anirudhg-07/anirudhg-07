@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhg-07" alt="anirudhg-07" /></a> </p>
 
-- 🔭 I’m currently working on [PalmOracle](https://github.com/anirudhg-07/ProjectSync.git)
+- 🔭 I’m currently working on [ProjectSync](https://github.com/anirudhg-07/ProjectSync.git)
 
 - 🌱 I’m currently learning **DSA**
 
