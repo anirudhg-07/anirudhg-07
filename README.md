@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **anirudhg1605@gmail.com**
+- 📫 How to reach me **anirudhg1603@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny!!**
 
