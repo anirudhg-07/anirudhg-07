@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ProjectSync](https://github.com/anirudhg-07/ProjectSync.git)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA,DataScience**
 
 - 📫 How to reach me **anirudhg1603@gmail.com**
 
