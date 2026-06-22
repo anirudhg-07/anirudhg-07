@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudhg-07" alt="anirudhg-07" /></a> </p>
 
-- 🔭 I’m currently working on [ProjectSync](https://github.com/anirudhg-07/ProjectSync.git)
+- 🔭 I’m currently working on [ProjectSync](https://github.com/anirudhg-07/DrapesDeDzire.git)
 
 - 🌱 I’m currently learning **DSA,DataScience**
+
+- My Portfolio can be seen in (https://anirudhg-07.github.io/portfolio/<img width="468" height="49" alt="image" src="https://github.com/user-attachments/assets/935403ad-806d-4f66-90e9-48e964ed9a3f" />
+)
 
 - 📫 How to reach me **anirudhg1603@gmail.com**
 
