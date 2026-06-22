@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,DataScience**
 
-- My Portfolio can be seen in [Portfolio](https://anirudhg-07.github.io/portfolio/)
+- My Portfolio can be seen be [here](https://anirudhg-07.github.io/portfolio/)
 
 - 📫 How to reach me **anirudhg1603@gmail.com**
 
